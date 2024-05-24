@@ -24,7 +24,7 @@ body {
     max-width: 1080px;
 }
 
-@media (max-width: 767px){
+@media (max-width: 900px){
     nav{
         position: fixed !important;
         width: 0%;
